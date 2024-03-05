@@ -1,5 +1,37 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Smit Chitroda</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+
+>  An Aspiring and Self - Motivated Flutter Developer with Problem solving mindset and ability to perform well in collaboration...
+
+##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjaygondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="iamjaygondaliya" /> </p>
+
+
+ <p><img align="right" width="350" height="300"  src='https://www.bacancytechnology.com/main-boot-5/images/chatbot/side-img-1.gif'/></p>
+
+# 💫 About Me:
+
+``` dart
+
+import 'dev-community:india/flutter-devs';
+
+class Desc extends SoftwareDeveloper {
+  final String name = "Jay Gondaliya";
+  dynamic title = "Flutter Developper";
+  dynamic location = "Gujarat, India";
+
+  @override
+  List<Skills> getSkills() {    
+    List<Skills> languages  = ['C', 'C++', 'Dart' ];
+    return languages;   
+  }
+}
+
+```
+
+```css
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@smit-chitroda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@smitchitroda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/smit__chitroda) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23321138) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/@smitchitroda) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/smitchitroda2210) 
