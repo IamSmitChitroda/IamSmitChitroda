@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Jay Gondaliya</h1>
+<h1 align="center">Hi 👋, I'm Smit Chitroda</h1>
 
 >  An Aspiring and Self - Motivated Flutter Developer with Problem solving mindset and ability to perform well in collaboration...
 
@@ -18,13 +18,13 @@
 import 'dev-community:india/flutter-devs';
 
 class Desc extends SoftwareDeveloper {
-  final String name = "Jay Gondaliya";
+  final String name = "Smit Chitroda";
   dynamic title = "Flutter Developper";
   dynamic location = "Gujarat, India";
 
   @override
   List<Skills> getSkills() {    
-    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP', 'Python'];
+    List<Skills> languages  = ['C', 'C++', 'Dart'];
     return languages;   
   }
 }
