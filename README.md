@@ -24,7 +24,7 @@ class Desc extends SoftwareDeveloper {
 
   @override
   List<Skills> getSkills() {    
-    List<Skills> languages  = ['C', 'C++', 'Dart'];
+    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP'];
     return languages;   
   }
 }
