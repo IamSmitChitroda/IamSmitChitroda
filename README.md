@@ -32,12 +32,12 @@ class Desc extends SoftwareDeveloper {
 ```
 
 ```css
- 
-- 🔭 I'm currently working on Flutter Application Development...
+
+ - 🔭 I'm currently working on Flutter Application Development...
 
 - 💬 Ask me about anything which confused you in DSA or FLUTTER
 
-- 📫 How to reach me **smitchitroda2210@gmail.com**
+ 📫 How to reach me <a href="mailto:smitchitroda2210@gmail.com">smitchitroda2210@gmail.com</a>
 
   ```
 
