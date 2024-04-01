@@ -37,7 +37,7 @@ class Desc extends SoftwareDeveloper {
 
 - 💬 Ask me about anything which confused you in DSA or FLUTTER
 
- 📫 How to reach me <a href="mailto:smitchitroda2210@gmail.com">smitchitroda2210@gmail.com</a>
+ 📫 How to reach me **smitchitroda2210@gmail.com**
 
   ```
 
