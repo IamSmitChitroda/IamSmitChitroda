@@ -7,9 +7,9 @@
 
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsmitchitroda&label=Profile%20views&color=0e75b6&style=flat" alt="iamsmitchitroda" /> </p>
+  
 
-
- <p><img align="right" width="350" height="300"  src='https://www.bacancytechnology.com/main-boot-5/images/chatbot/side-img-1.gif'/></p>
+ <!--<p><img align="right" width="350" height="300"  src='https://www.bacancytechnology.com/main-boot-5/images/chatbot/side-img-1.gif'/></p>-->
 
 # 💫 About Me:
 
