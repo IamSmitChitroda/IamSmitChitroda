@@ -23,7 +23,7 @@ class Desc extends SoftwareDeveloper {
   String location = "Gujarat, India";
 
   @override
-  List<Skills> getSkills({String user = "Smit Chitroda"}) {    
+  List<Skills> getSkills({String devloper = "Smit Chitroda"}) {    
     List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP'];
     return languages;   
   }
