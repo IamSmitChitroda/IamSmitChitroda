@@ -15,7 +15,8 @@
 
 ``` dart
 
-import 'dev-community:india/flutter-devs';
+import 'package:dev-community:india/flutter-devs';
+import 'package:dev-community:mobile-app/mobile-app-devs';
 
 class Desc extends SoftwareDeveloper {
   final String name = "Smit Chitroda";
