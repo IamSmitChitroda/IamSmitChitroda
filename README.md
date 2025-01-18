@@ -19,11 +19,11 @@ import 'dev-community:india/flutter-devs';
 
 class Desc extends SoftwareDeveloper {
   final String name = "Smit Chitroda";
-  dynamic title = "Flutter Developper";
-  dynamic location = "Gujarat, India";
+  String title = "Flutter Developper";
+  String location = "Gujarat, India";
 
   @override
-  List<Skills> getSkills() {    
+  List<Skills> getSkills({String user = "Smit Chitroda"}) {    
     List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP'];
     return languages;   
   }
