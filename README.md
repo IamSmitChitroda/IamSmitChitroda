@@ -25,7 +25,7 @@ class Desc extends SoftwareDeveloper {
 
   @override
   List<Skills> getSkills({String devloper = "Smit Chitroda"}) {    
-    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP'];
+    List<Skills> languages  = ['C', 'C++', 'Dart', 'Python','PHP'];
     return languages;   
   }
 }
