@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Smit Chitroda</h1>
 
 >  An Aspiring and Self - Motivated Flutter Developer with Problem solving mindset and ability to perform well in collaboration...
