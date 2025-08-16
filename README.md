@@ -39,8 +39,6 @@ class Desc extends SoftwareDeveloper {
 
 ```
 -->
- 
-
 
 ```markdown
 
