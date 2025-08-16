@@ -29,7 +29,7 @@ class Desc extends SoftwareDeveloper {
 
 ```
 
-```css
+<!---```css
 
  - 🔭 I'm currently working on Flutter Application Development...
 
@@ -37,17 +37,20 @@ class Desc extends SoftwareDeveloper {
 
  📫 How to reach me **smitchitroda001@gmail.com**
 
-  ```
+```
+-->
+ 
+
 
 ```markdown
+
 - 🔭 I'm currently working on Flutter Application Development...
 
 - 💬 Ask me about anything which confused you in DSA or FLUTTER
 
-- 📫 How to reach me [smitchitroda001@gmail.com](mailto:smitchitroda001@gmail.com)
-
-smitchitroda001@gmail.com
+- 📫 How to reach me: smitchitroda001@gmail.com
 ```
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smitchitroda001@gmail.com)
 
