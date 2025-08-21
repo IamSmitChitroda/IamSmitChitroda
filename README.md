@@ -6,9 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsmitchitroda&label=Profile%20views&color=0e75b6&style=flat" alt="iamsmitchitroda" /> </p>
   
 
- <!--<p><img align="right" width="350" height="300"  src='https://www.bacancytechnology.com/main-boot-5/images/chatbot/side-img-1.gif'/></p>-->
 
 # 💫 About Me:
+
+<p><img align="right" width="300" height="250" src='https://i.pinimg.com/originals/84/8c/34/848c342a56e7854dec45b9349c21dfe5.gif'/></p>
 
 ``` dart
 
@@ -64,5 +65,7 @@ class Desc extends SoftwareDeveloper {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IamSmitChitroda&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 -->
+
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
