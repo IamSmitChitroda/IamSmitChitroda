@@ -12,13 +12,13 @@
 <p><img align="right" width="300" height="250" src='https://i.pinimg.com/originals/84/8c/34/848c342a56e7854dec45b9349c21dfe5.gif'/></p>
 
 ``` dart
-
+import 'package:dev-community:india/ai-devs';
+import 'package:dev-community:india/data-scintist-devs';
 import 'package:dev-community:india/flutter-devs';
-import 'package:dev-community:mobile-app/mobile-app-devs';
 
-class Desc extends SoftwareDeveloper {
+class Desc extends SoftwareDeveloper, AiEngineer, DataScintist {
   final String name = "Smit Chitroda";
-  String title = "Flutter Developper";
+  List<String> title = ["Data Scintist", "Ai Engineer" ,"Flutter Developper"];
   String location = "Gujarat, India";
 
   @override
@@ -30,24 +30,13 @@ class Desc extends SoftwareDeveloper {
 
 ```
 
-<!---```css
-
- - 🔭 I'm currently working on Flutter Application Development...
-
-- 💬 Ask me about anything which confused you in DSA or FLUTTER
-
- 📫 How to reach me **smitchitroda001@gmail.com**
-
-```
--->
-
 ```markdown
 
-- 🔭 I'm currently working on Flutter Application Development...
+- 🔭 I'm currently working on Ai Devlopment...
 
-- 💬 Ask me about anything which confused you in DSA or FLUTTER
+- 💬 Ask me about anything which confused you in AI, MODEL, DSA or FLUTTER
 
-- 📫 How to reach me: smitchitroda001@gmail.com
+- 📫 How to reach me: smitchitroda.dev@gmail.com
 ```
 
 # 🌐 Socials:
