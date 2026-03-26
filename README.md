@@ -27,7 +27,6 @@ class Desc extends SoftwareDeveloper, AiEngineer, DataScintist {
     return languages;   
   }
 }
-
 ```
 
 ```markdown
