@@ -16,7 +16,7 @@ import 'package:dev-community:india/ai-devs';
 import 'package:dev-community:india/data-scintist-devs';
 import 'package:dev-community:india/flutter-devs';
 
-class Desc extends SoftwareDeveloper, AiEngineer, DataScintist {
+class Desc extends SoftwareDeveloper, AiEngineer, DataScientist {
   final String name = "Smit Chitroda";
   List<String> title = ["Data Scintist", "Ai Engineer" ,"Flutter Developper"];
   String location = "Gujarat, India";
