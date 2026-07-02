@@ -13,12 +13,12 @@
 
 ``` dart
 import 'package:dev-community:india/ai-devs';
-import 'package:dev-community:india/data-scintist-devs';
+import 'package:dev-community:india/deep-learning-devs';
 import 'package:dev-community:india/flutter-devs';
 
 class Desc extends SoftwareDeveloper, AiEngineer, DataScientist {
   final String name = "Smit Chitroda";
-  List<String> title = ["Data Scintist", "Ai Engineer" ,"Flutter Developper"];
+  List<String> title = ["Ai Engineer", "Deep Learning Engineer" ,"Flutter Developper"];
   String location = "Gujarat, India";
 
   @override
@@ -33,9 +33,9 @@ class Desc extends SoftwareDeveloper, AiEngineer, DataScientist {
 
 - 🔭 I'm currently working on Ai Devlopment...
 
-- 💬 Ask me about anything which confused you in AI, MODEL, DSA or FLUTTER
+- 💬 Ask me about anything which confused you in AI, LLM, DSA or FLUTTER
 
-- 📫 How to reach me: smitchitroda.dev@gmail.com
+- 📫 How to reach me: `smitchitroda.dev@gmail.com`
 ```
 
 # 🌐 Socials:
